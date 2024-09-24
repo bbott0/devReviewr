@@ -1,0 +1,11 @@
+.mainContainer{
+	border: 1px solid black;
+	height: 100vh;
+	justify-content: center;
+}
+.mainInputContainer{
+	border: 1px solid black;
+	height: 50%;
+	width: 50%;
+	
+}
