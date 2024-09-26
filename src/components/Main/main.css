@@ -1,13 +1,23 @@
 .mainContainer{
+	height: auto;
+	justify-content: center;
+	background: linear-gradient(#FAF4C0,#8FFF86,#47C83E);
+	z-index: -1;
+}
+.mainContentAreaUno{
 	border: 1px solid black;
 	height: 100vh;
-	justify-content: center;
-	color: green;
-	background-color: green;
+	z-index: -1;
 }
-.mainInputContainer{
+.mainContentAreaDos{
 	border: 1px solid black;
-	height: 50%;
-	width: 50%;
-	background-color: green;
+	height: 100vh;
+}
+.mainContentAreaTres{
+	border: 1px solid black;
+	height: 100vh;
+}
+.mainContentAreaQuatro{
+	border: 1px solid black;
+	height: 100vh;
 }
